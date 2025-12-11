@@ -1,0 +1,15 @@
+int My_var_cop=0;
+int My_var_cop2=0;
+int mode_var1=0;
+int mode_var2=0;
+int mode_var3=0;
+int mode_var4=0;
+int mode_var5=0;
+int mode_var6=0;
+int mode_var7=0;
+int mode_var8=0;
+int mode_var9=0;
+int mode_var10=0;
+int mode_var11=0;
+long var_cnt=0;
+long mode_var_cnt=0;
